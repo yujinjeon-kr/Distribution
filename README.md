@@ -50,7 +50,7 @@
 
 ## [2부문] 유통 데이터를 이용한 아이디어 공모
 ## 파일 안내
-### 1. 데이터 ([1부문에 활용한 데이터에 카드거래, 구매내역 데이터 추가)
+### 1. 데이터 (1부문에 활용한 데이터에 카드거래, 구매내역 데이터 추가)
   - [카드거래데이터](https://drive.google.com/file/d/15FtF2TGfnXfofr5v4oPOiGkGHytrkqMa/view?usp=drive_link)
   - purchase_transaction_data.csv
 
